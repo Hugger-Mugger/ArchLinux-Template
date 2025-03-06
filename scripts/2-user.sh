@@ -6,7 +6,7 @@
 echo -ne "
 -------------------------------------------------------------------------
                     Automated Arch Linux Installer
-                        SCRIPTHOME: ArchTitus
+                        SCRIPTHOME: ArchTites
 -------------------------------------------------------------------------
 
 Installing AUR Softwares
