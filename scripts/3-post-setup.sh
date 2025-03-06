@@ -7,7 +7,7 @@ echo -ne "
 -------------------------------------------------------------------------
 
                     Automated Arch Linux Installer
-                        SCRIPTHOME: ArchTitus
+                        SCRIPTHOME: ArchTities
 -------------------------------------------------------------------------
 
 Final Setup and Configurations
